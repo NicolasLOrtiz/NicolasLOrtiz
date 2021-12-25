@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nícolas Ortiz</h1>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Devio**
+- 🔭 I’m currently working on **Somos Educação**
 
 - 🌱 I’m currently learning **ReactJS, NodeJS and React Native**
 
